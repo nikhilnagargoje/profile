@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+#name{
+    text-align: center;
+    padding: 30px;
+}
+
+#image{
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
+
+#bio{
+    margin: 15px;
+    padding: 20px;
+}
+
+#hobbies{
+    padding: 20px;
+    margin: 15px;
+}
